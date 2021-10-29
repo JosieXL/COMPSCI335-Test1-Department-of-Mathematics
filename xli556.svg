@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340">
+    <rect x="0" y="0" height="400" width="400" fill="white"/>
+
+<!-- two "ears" outside the outer arc -->
+<line x1="58" x2="70" y1="58" y2="70" stroke-width="40" stroke="black" stroke-linecap="round"/>
+<line x1="330" x2="342" y1="70" y2="58" stroke-width="40" stroke="black" stroke-linecap="round"/>
+
+<!-- the linking line -->
+<line x1="195" x2="196" y1="40" y2="80" stroke-width="40" stroke="black" stroke-linecap="round"/>
+
+<!-- Outer arc -->
+<path d="M 55 285 A 166 169 0 1 1 343 285" stroke="black" stroke-width="40" stroke-linecap="round" fill="none"/>
+
+<!-- middle circle biggest one -->
+<circle cx="200" cy="200" r="119" fill="black" stroke="black"/>
+
+<!-- middle circle cross-out one -->
+<circle cx="200" cy="200" r="80" fill="white" stroke="white"/>
+
+<!--middle circle big one-->
+<circle cx="200" cy="199.7" r="19.5" fill="black" stroke="black"/>
+
+<!-- the middle "eye" -->
+<circle cx="205" cy="195" r="8" fill="white" stroke="white" />
+
+</svg>
